@@ -1,0 +1,36 @@
+# Core Data Processing & Mathematics
+numpy
+pandas
+scipy
+
+# Data Visualization & EDA
+matplotlib
+seaborn
+
+# Machine Learning, Modeling & Preprocessing
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+
+# Model Persistence
+joblib
+
+# Web Applications & Deployment
+Flask
+Flask-Cors
+gunicorn
+streamlit
+
+# Jupyter & Interactive Development
+ipykernel
+jupyterlab
+notebook
+
+# Environment & Utilities
+python-dotenv
+requests
+pydantic
+openpyxl
